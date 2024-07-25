@@ -39,7 +39,7 @@ Compiler: Any standard C++ compiler (e.g., GCC, MSVC)
 
 Platform: Console-based application (cross-platform compatibility)
 
-#Pic
+# Pic
 
 ![Screenshot (558)](https://github.com/user-attachments/assets/9baa25c7-b9da-40f2-95f6-cfeae417521b)
 
